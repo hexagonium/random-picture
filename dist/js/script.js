@@ -1,6 +1,6 @@
 const img = document.getElementById("img");
 const button = document.getElementById("button");
-const url = "http://aws.random.cat/meow";
+const url = "https://aws.random.cat/meow";
 
 async function fetchHandler() {
     try {
